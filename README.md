@@ -1,2 +1,1 @@
-# glass
-Curso em Vídeo HTML5-CSS3-Javascript - site completo Glass
+- [Google Glass](https://fernandolink.github.io/glass/index.html)
